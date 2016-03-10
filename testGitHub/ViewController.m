@@ -17,13 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    //test
-    //test//test
-    //test
-    //test
-    //test
-    //test
-    //test
+    NSLog(@"wsssss");
+    NSLog(@"wsssss");NSLog(@"wsssss");NSLog(@"wsssss");NSLog(@"wsssss");NSLog(@"wsssss");NSLog(@"wsssss");
 }
 
 - (void)didReceiveMemoryWarning {
